@@ -4,3 +4,4 @@ boto3
 httpx
 python-dotenv
 pydantic
+python-multipart
